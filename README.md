@@ -26,7 +26,7 @@ A **production-grade PHP SDK** for the [Swish Payment Gateway](https://developer
 ## Installation
 
 ```bash
-composer require swish/swish-php
+composer require shahmarasy/swish-php
 ```
 
 Requires **PHP 8.2+** and the following extensions: `curl`, `openssl`, `json`.
